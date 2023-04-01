@@ -1,0 +1,3 @@
+[submodule "game/srC"]
+	path = game/srC
+	url = https://github.com/gitSra1/Dummy.git
